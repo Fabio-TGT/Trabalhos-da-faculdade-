@@ -23,5 +23,5 @@ else if (nf <= 4.9){
   console.log("infelizmente " + aln + " você reprovou, sua nota é " + nf + " seu conceito é " + conceito);
 }
 else{
-  console.log("nota invalidade, tente novamento (nota maxima 10.0 e minima 0")
+  console.log("nota invalidade, tente novamente (nota maxima 10.0 e minima 0")
 }
