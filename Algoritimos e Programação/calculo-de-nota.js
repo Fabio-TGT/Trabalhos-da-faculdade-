@@ -1,4 +1,6 @@
 // FIXME: adicionar validação de input
+
+// Nessa MR eu pretendo adicionar validações de input
 let aln = prompt("digite o nome do aluno: ");
 let nota1 = parseFloat(prompt("digite a sua primeira nota: "));
 let nota2 = parseFloat(prompt("digite a sua segunda nota: "));
